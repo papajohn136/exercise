@@ -12,3 +12,4 @@ while number != 0:
         max_m = m
     number = int(input())
 print('Number:',max_m,' has a maximum sum of digits: ', max_sum)
+input("\n\nPress Enter to exit.")
